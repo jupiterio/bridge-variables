@@ -1,7 +1,12 @@
-username: Username Here!
-password: Password Here!
+# Put your username here.
+username: scratcher
+# Put your password here.
+password: password
+# The IDs of the two projects you want to connect.
 projects:
-    - First Project's Id Here!
-    - Second Project's Id Here!
-##set this to varible called update-interval
-update-interval: 1
+    - project 1
+    - project 2
+# The name of the cloud variable without the cloud symbol
+variable-name: variable
+# Interval of seconds to check the variables. Min: 0.1
+update-interval: 0.1
