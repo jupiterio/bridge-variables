@@ -3,3 +3,5 @@ password: Password Here!
 projects:
     - First Project's Id Here!
     - Second Project's Id Here!
+##set this to varible called update-interval
+update-interval: 1
