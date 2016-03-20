@@ -1,0 +1,7 @@
+username: username
+password: password
+projects:
+    - 102307855
+    - 102310530
+update-interval: 0.1
+cloud-variable: Cloud
