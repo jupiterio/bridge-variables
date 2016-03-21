@@ -20,5 +20,7 @@ Open the configeration folder found in bridge-varibles/src/ and open config.yml.
 <p>cloud-variable</b> The name of your cloud variable. I recomend "Cloud" or "Bridge."
 ###Scratch Project Setup
 Create a cloud variable in the project that matches the setting in the configeration "cloud-varible." The default is cloud.
+###Stopping the Server
+Just type -1 into the console.
 ###Lisence
 Under a CC and MIT licence.
